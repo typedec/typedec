@@ -1,3 +1,4 @@
+<!-- omit in toc -->
 typedec
 =======
 
@@ -8,11 +9,12 @@ Create type declarations for JavaScript projects.
 [![Downloads/week](https://img.shields.io/npm/dw/typedec.svg)](https://npmjs.org/package/typedec)
 [![License](https://img.shields.io/npm/l/typedec.svg)](https://github.com/typedoc/typedec/blob/master/package.json)
 
-<!-- toc -->
-* [Usage](#usage)
-* [Commands](#commands)
-<!-- tocstop -->
-# Usage
+- [Usage](#usage)
+- [Commands](#commands)
+
+Usage
+-----
+
 <!-- usage -->
 ```sh-session
 $ npm install -g typedec
@@ -26,7 +28,9 @@ USAGE
 ...
 ```
 <!-- usagestop -->
-# Commands
+
+Commands
+--------
 <!-- commands -->
 
 <!-- commandsstop -->

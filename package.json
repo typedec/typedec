@@ -15,7 +15,8 @@
   "devDependencies": {
     "@oclif/dev-cli": "^1.25.1",
     "eslint": "^5.16.0",
-    "eslint-config-oclif": "^3.1.0"
+    "eslint-config-oclif": "^3.1.0",
+    "markdownlint": "^0.22.0"
   },
   "engines": {
     "node": ">=8.0.0"
@@ -26,6 +27,10 @@
   ],
   "homepage": "https://github.com/typedec/typedec",
   "keywords": [
+    "nodejs",
+    "cli",
+    "javascript",
+    "typescript",
     "oclif"
   ],
   "license": "MIT",
