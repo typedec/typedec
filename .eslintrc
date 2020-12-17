@@ -1,3 +1,4 @@
 {
-  "extends": "amex"
+  "extends": "amex",
+  "ignorePatterns": ["test-results"]
 }
